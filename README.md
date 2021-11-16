@@ -81,5 +81,13 @@ I’m a **normal one** who wants to make people's lives ✨ _special_ ✨
 
 📌 Deploy Project
 > `WhatKindOfProject:` __ProjectName__ {MyRole}
-> > `Hackerton:` __Eco Expedition__ {BackEnd} | `ToyProject:` __UntactPhotoBooth__ {FullStack} | `Mobile:` __Sixty-six__ {BackEnd}
-> > > you can find it in my Repositories, but some services were stop.. going to fix ASAP!
+> * `Hackerton:` __Eco Expedition__ {BackEnd}
+> * `ToyProject:` __UntactPhotoBooth__ {FullStack}
+> * `Mobile:` __Sixty-six__ {BackEnd}
+> > you can find it in my Repositories, but some services were stop or didn't write readme file 😭😭  i'll figure it out ASAP!
+
+***
+
+🐟 Career
+> * 한글과 컴퓨터 (intern)
+> * 인포뱅크 (intern)
