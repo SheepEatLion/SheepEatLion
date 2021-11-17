@@ -81,10 +81,10 @@ I’m a **normal one** who wants to make people's lives ✨ _special_ ✨
 
 📌 Deploy Project
 > `WhatKindOfProject:` __ProjectName__ {MyRole}
-> * `Hackerton:` __Eco Expedition__ {BackEnd}
-> * `ToyProject:` __UntactPhotoBooth__ {FullStack}
-> * `Mobile:` __Sixty-six__ {BackEnd}
-> > sorry, these repositories are private now 😭😭 모든 프로젝트가 정상적으로 운영될 때 퍼블릭으로 전환 예정입니다.
+> * `Hackerton:` __Eco Expedition__ {BackEnd} -> 🥈 [frontRepository](https://github.com/C0deWave/EcoExpedition/tree/master), [backRepository](https://github.com/SheepEatLion/aws_lambda_dynamoDB_API) -> 운영❌
+> * `ToyProject:` __UntactPhotoBooth__ {FullStack} -> [privateRepository] -> 운영⭕ -> [![Tech Blog Badge](http://img.shields.io/badge/ToyProjectSite-232F3E?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)](https://mynameisjunyeong.com)  
+> * `Mobile:` __Sixty-six__ {BackEnd} -> 2차 개발 진행중(WIP).
+> > sorry, some repositories are private now 😭😭
 
 ***
 
