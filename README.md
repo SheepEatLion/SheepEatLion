@@ -11,7 +11,7 @@ I’m a **normal one** who wants to make people's lives ✨ _special_ ✨
 - 2️⃣ Languages❔  ___Korean___ | ___German___ | ___English___
 - 3️⃣ I’m currently interesting in ___MSA___  and  ___DevOps Process___ like Docker, Nginx
 - 🍀 ___"keep Programming until seventy."___ is my motto!
-- 5️⃣ Algorithm, Operating System, Database, Network ... i majored in ___Computer Science___, but still trying to understand to ___120%___
+- 5️⃣ Algorithm, Operating System, Database, Network ... i majored in ___Computer Science___, but still trying to ___beyond my knowledge___
 ***
 #### 🔥 Things i can do my B.E.S.T.
 
