@@ -13,7 +13,7 @@ I’m a **normal one** who wants to make people's lives ✨ _special_ ✨
 - 🍀 ___"keep Programming until seventy."___ is my motto!
 - 5️⃣ Algorithm, Operating System, Database, Network ... i'm always eager to learn more about Basic of CS
 ***
-#### 🔥 Things i can do my B.E.S.T.
+#### 🔥 Things i can do ___my Best___
 
 - Main Stack ✈️
 
