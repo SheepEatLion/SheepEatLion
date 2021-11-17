@@ -9,7 +9,7 @@ I’m a **normal one** who wants to make people's lives ✨ _special_ ✨
 - 0️⃣ I’m currently working as a ___full-stack developer___ 🧑‍💻
 - 1️⃣ officially ___Junior developer___ | for 1 year
 - 2️⃣ Languages❔  ___Korean___ | ___German___ | ___English___
-- 3️⃣ I’m currently interesting in ___MSA___  and  ___DevOps Process___ like Docker, Nginx
+- 3️⃣ I’m currently interested in ___MSA___  and  ___DevOps Process___ like Docker, Nginx
 - 🍀 ___"keep Programming until seventy."___ is my motto!
 - 5️⃣ Algorithm, Operating System, Database, Network ... i majored in ___Computer Science___, but still trying to ___beyond my knowledge___
 ***
