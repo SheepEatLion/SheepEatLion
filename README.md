@@ -7,11 +7,11 @@ I’m a **normal one** who wants to make people's lives ✨ _special_ ✨
 
 
 - 0️⃣ I’m currently working as a ___full-stack developer___ 🧑‍💻
-- 1️⃣ officially ___Junior developer___ | for 1 year
+- 1️⃣ I majored in ___Computer Science___ | ___Junior developer___ |
 - 2️⃣ Languages❔  ___Korean___ | ___German___ | ___English___
 - 3️⃣ I’m currently interested in ___MSA___  and  ___DevOps Process___ like Docker, Nginx
 - 🍀 ___"keep Programming until seventy."___ is my motto!
-- 5️⃣ Algorithm, Operating System, Database, Network ... i majored in ___Computer Science___, but still trying to ___beyond my knowledge___
+- 5️⃣ Algorithm, Operating System, Database, Network ... i'm always eager to learn more about Basic of CS
 ***
 #### 🔥 Things i can do my B.E.S.T.
 
@@ -84,10 +84,10 @@ I’m a **normal one** who wants to make people's lives ✨ _special_ ✨
 > * `Hackerton:` __Eco Expedition__ {BackEnd}
 > * `ToyProject:` __UntactPhotoBooth__ {FullStack}
 > * `Mobile:` __Sixty-six__ {BackEnd}
-> > you can find it in my Repositories, but some services were stop or didn't write readme file 😭😭  i'll figure it out ASAP!
+> > sorry, these repositories are private now 😭😭 모든 프로젝트가 정상적으로 운영될 때 퍼블릭으로 전환 예정입니다.
 
 ***
 
 🐟 Career
-> * 한글과 컴퓨터 (intern)
-> * 인포뱅크 (intern)
+> * 한글과 컴퓨터 (intern) 2020
+> * 인포뱅크 (intern) 2021
