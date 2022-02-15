@@ -1,4 +1,4 @@
-## Hello there 👋 My name is Junyeong ❕
+## Hello there 👋 I'm Junyeong ❕
 I’m a **normal one** who wants to make people's lives ✨ _special_ ✨ 
 
 ***
@@ -83,10 +83,11 @@ I’m a **normal one** who wants to make people's lives ✨ _special_ ✨
 > `WhatKindOfProject:` __ProjectName__ {MyRole}
 > * `Hackerton:` __Eco Expedition__ {BackEnd} -> 🥈 [frontRepository](https://github.com/C0deWave/EcoExpedition/tree/master), [backRepository](https://github.com/SheepEatLion/aws_lambda_dynamoDB_API) -> 운영❌
 > * `ToyProject:` __UntactPhotoBooth__ {FullStack} -> [Repository] https://github.com/SheepEatLion/UntactPhotoBooth_public -> 운영⭕ -> [![Tech Blog Badge](http://img.shields.io/badge/ToyProjectSite-232F3E?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)](https://mynameisjunyeong.com)  
-> * `Mobile:` __Sixty-six__ {BackEnd} -> 2차 개발 진행중(WIP).
+> * `ToyProject:` __익명의 작가들__ {BackEnd} -> 1차 개발 진행중.
 
 ***
 
 🐟 Career
 > * 한글과 컴퓨터 (intern) 2020
 > * 인포뱅크 (intern) 2021
+> * 인포뱅크 (재직중) 2022
