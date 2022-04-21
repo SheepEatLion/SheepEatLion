@@ -1,5 +1,4 @@
 ## Hello there 👋 I'm Junyeong ❕
-***
 
 #### 🐑 Here are some sentences to get you know me
 
