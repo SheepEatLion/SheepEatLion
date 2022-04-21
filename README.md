@@ -1,6 +1,4 @@
 ## Hello there 👋 I'm Junyeong ❕
-I’m a **normal one** who wants to make people's lives ✨ _special_ ✨ 
-
 ***
 
 #### 🐑 Here are some sentences to get you know me
