@@ -67,10 +67,11 @@
 ***
 - #### 📫 How to reach me:
   - [![Tech Blog Badge](http://img.shields.io/badge/ToyProjectSite-232F3E?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)](https://mynameisjunyeong.com)  
-  - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-beige?style=flat-square&logo=naver&link=https://blog.naver.com/gowjr300)](https://blog.naver.com/gowjr300)
+  - [![Tech Blog Badge](http://img.shields.io/badge/-Junior%20blog-beige?style=flat-square&logo=velog&link=https://velog.io/@gowjr207)](https://velog.io/@gowjr207)
+  - [![Tech Blog Badge](http://img.shields.io/badge/-Student%20blog-beige?style=flat-square&logo=naver&link=https://blog.naver.com/gowjr300)](https://blog.naver.com/gowjr300)
   - [![Instagram Badge](https://img.shields.io/badge/instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junsssssssss/)](https://www.instagram.com/junsssssssss/)
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gowjr207@gmail.com)](mailto:gowjr207@gmail.com)
-- ⚡ Ask me about: ... (blank)
+- ⚡ I ran student-tech-blog since 2019, after i graduated, from 2021 i started to run my Junior-tech-Blog
 
 ***
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sheepEatLion&show_icons=true)
