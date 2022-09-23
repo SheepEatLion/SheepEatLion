@@ -1,14 +1,5 @@
 ## Hello there 👋 I'm Junyeong ❕
 
-#### 🐑 Here are some sentences to get you know me
-
-
-- 0️⃣ I’m working as a ___full-stack developer___ 🧑‍💻
-- 1️⃣ I majored in ___Computer Science___ | ___Junior developer___ |
-- 2️⃣ Languages❔  ___Korean___ | ___German___ | ___English___
-- 3️⃣ I’m currently interested in ___MSA___  and  ___DevOps Process___ like Docker, Nginx
-- 🍀 ___"keep Programming until seventy."___ is my motto!
-- 5️⃣ Algorithm, Operating System, Database, Network ... i'm always eager to learn more about Basic of CS
 ***
 #### 🔥 Things i can do ___my Best___
 
