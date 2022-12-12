@@ -1,9 +1,6 @@
-## 안녕하세요👋 더 나은 소통을 고민하는 개발자, 장준영입니다.
+## 안녕하세요👋 장준영입니다.
 
-***
-#### 🔥 기술 스택: 해본 거 말고 제대로 하는 것.
-
-- 핵심 ✈️
+#### 🔥 기술 스택
 
 ![AWS ELB](http://img.shields.io/badge/AWS_ELB-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
 ![AWS Route53](http://img.shields.io/badge/AWS_Route53-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
@@ -22,8 +19,6 @@
 ![JPA](http://img.shields.io/badge/JPA-black?style=flat-square&logo=spring&link=https://mynameisjunyeong.com)
 ![Querydsl](http://img.shields.io/badge/Querydsl-black?style=flat-square&logo=&link=https://mynameisjunyeong.com)
 
-![REST](http://img.shields.io/badge/RestAPI-black?style=flat-square&logo=&link=https://mynameisjunyeong.com)
-
 ![MySql](http://img.shields.io/badge/MySql-black?style=flat-square&logo=mysql&link=https://mynameisjunyeong.com)
 ![MariaDB](http://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb&link=https://mynameisjunyeong.com)
 ![Github](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://mynameisjunyeong.com)
@@ -31,7 +26,6 @@
 
 ![kotlin](http://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin&link=https://mynameisjunyeong.com)
 ![java](http://img.shields.io/badge/Java-black?style=flat-square&logo=java&link=https://mynameisjunyeong.com)
-![javascript](http://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&link=https://mynameisjunyeong.com)
 
 ![jenkins](http://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins&link=https://mynameisjunyeong.com)
 ![linux](http://img.shields.io/badge/linux-black?style=flat-square&logo=linux&link=https://mynameisjunyeong.com)
@@ -45,7 +39,6 @@
   - [![Tech Blog Badge](http://img.shields.io/badge/-Student%20blog-beige?style=flat-square&logo=naver&link=https://blog.naver.com/gowjr300)](https://blog.naver.com/gowjr300)
   - [![Instagram Badge](https://img.shields.io/badge/instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junsssssssss/)](https://www.instagram.com/junsssssssss/)
   - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gowjr207@gmail.com)](mailto:gowjr207@gmail.com)
-- ⚡ I ran student-tech-blog since 2019, after i graduated, from 2021 i started to run my Junior-tech-Blog
 
 ***
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sheepEatLion&show_icons=true)
