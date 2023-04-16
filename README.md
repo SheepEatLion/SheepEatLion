@@ -1,6 +1,5 @@
-## 👋안녕하세요 장준영입니다.
 
-#### 🔥 기술 스택
+### 🔥 STACK
 
 ![AWS ELB](http://img.shields.io/badge/AWS_ELB-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
 ![AWS Route53](http://img.shields.io/badge/AWS_Route53-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
@@ -33,10 +32,4 @@
 
 ***
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sheepEatLion&show_icons=true)
-***
 
-🐟 Career
-> * 한글과 컴퓨터 (intern) 2020
-> * 인포뱅크 (intern) 2021
-> * 인포뱅크 (정규) 2022
-> * 팀윙크 (정규) 2022
