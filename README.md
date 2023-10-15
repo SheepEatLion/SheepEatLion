@@ -1,5 +1,5 @@
 
-### 🔥 STACK
+### 🔥
 
 ![AWS ELB](http://img.shields.io/badge/AWS_ELB-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
 ![AWS Route53](http://img.shields.io/badge/AWS_Route53-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
@@ -25,7 +25,4 @@
 ![jenkins](http://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins&link=https://mynameisjunyeong.com)
 ![linux](http://img.shields.io/badge/linux-black?style=flat-square&logo=linux&link=https://mynameisjunyeong.com)
 ![docker](http://img.shields.io/badge/docker-black?style=flat-square&logo=docker&link=https://mynameisjunyeong.com)
-
-***
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sheepEatLion&show_icons=true)
 
