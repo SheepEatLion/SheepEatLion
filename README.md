@@ -1,7 +1,7 @@
 
 ### 🔥
 
-![AWS](http://img.shields.io/badge/Cloud-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
+![AWS](http://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
 ![AWS EC2](http://img.shields.io/badge/AWS_EC2-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
 ![AWS DynamoDB](http://img.shields.io/badge/AWS_Dynamo_DB-black?style=flat-square&logo=amazondynamodb&link=https://mynameisjunyeong.com)
 ![AWS RDS](http://img.shields.io/badge/AWS_RDS-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
