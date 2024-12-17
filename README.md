@@ -2,11 +2,6 @@
 ### 🔥
 
 ![AWS](http://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
-![AWS EC2](http://img.shields.io/badge/AWS_EC2-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
-![AWS DynamoDB](http://img.shields.io/badge/AWS_Dynamo_DB-black?style=flat-square&logo=amazondynamodb&link=https://mynameisjunyeong.com)
-![AWS RDS](http://img.shields.io/badge/AWS_RDS-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
-![AWS S3](http://img.shields.io/badge/AWS_S3-black?style=flat-square&logo=amazons3&link=https://mynameisjunyeong.com)
-![AWS Lambda](http://img.shields.io/badge/AWS_Lambda-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
 ![Serverless](http://img.shields.io/badge/Serverless-black?style=flat-square&logo=&link=https://mynameisjunyeong.com)
 
 ![springboot](http://img.shields.io/badge/SpringBoot-black?style=flat-square&logo=springboot&link=https://mynameisjunyeong.com)
