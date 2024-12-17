@@ -22,6 +22,8 @@
 ![javaScript](http://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&link=https://mynameisjunyeong.com)
 
 ![jenkins](http://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins&link=https://mynameisjunyeong.com)
+![argo](http://img.shields.io/badge/argo-black?style=flat-square&logo=argo&link=https://mynameisjunyeong.com)
+
 ![linux](http://img.shields.io/badge/linux-black?style=flat-square&logo=linux&link=https://mynameisjunyeong.com)
 ![docker](http://img.shields.io/badge/docker-black?style=flat-square&logo=docker&link=https://mynameisjunyeong.com)
 
