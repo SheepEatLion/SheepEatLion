@@ -19,6 +19,7 @@
 
 ![kotlin](http://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin&link=https://mynameisjunyeong.com)
 ![java](http://img.shields.io/badge/Java-black?style=flat-square&logo=java&link=https://mynameisjunyeong.com)
+![javaScript](http://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&link=https://mynameisjunyeong.com)
 
 ![jenkins](http://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins&link=https://mynameisjunyeong.com)
 ![linux](http://img.shields.io/badge/linux-black?style=flat-square&logo=linux&link=https://mynameisjunyeong.com)
