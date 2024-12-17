@@ -12,7 +12,7 @@
 
 ![MySql](http://img.shields.io/badge/MySql-black?style=flat-square&logo=mysql&link=https://mynameisjunyeong.com)
 ![MariaDB](http://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb&link=https://mynameisjunyeong.com)
-![MongoDB](http://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mariadb&link=https://mynameisjunyeong.com)
+![MongoDB](http://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&link=https://mynameisjunyeong.com)
 ![DocumentDB](http://img.shields.io/badge/DocumentDB-black?style=flat-square&logo=mariadb&link=https://mynameisjunyeong.com)
 ![RDB](http://img.shields.io/badge/RDB-black?style=flat-square&logo=mariadb&link=https://mynameisjunyeong.com)
 ![RDS](http://img.shields.io/badge/RDS-black?style=flat-square&logo=mariadb&link=https://mynameisjunyeong.com)
