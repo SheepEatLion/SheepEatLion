@@ -1,5 +1,5 @@
 
-### 🔥
+### Things I Used
 
 ![AWS](http://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&link=https://mynameisjunyeong.com)
 ![Serverless](http://img.shields.io/badge/Serverless-black?style=flat-square&logo=&link=https://mynameisjunyeong.com)
